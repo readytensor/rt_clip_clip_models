@@ -1,0 +1,8 @@
+numpy~=2.1.2
+pillow~=11.0.0
+torch~=2.5.0
+torchvision~=0.20.0
+tqdm~=4.66.5
+transformers~=4.45.2
+matplotlib~=3.9.2
+datasets~=3.0.1
