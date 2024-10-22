@@ -2,6 +2,8 @@
 
 This repository contains an implementation of the **Contrastive Language-Image Pretraining (CLIP)** model from scratch using PyTorch. The goal of CLIP is to bridge the gap between images and natural language descriptions by learning a shared embedding space where images and corresponding text are aligned. This project follows the original architecture proposed by OpenAI, with a few modifications to improve clarity and ease of understanding.
 
+This repository goes with the [Building CLIP from Scratch: A Tutorial on Multi-Modal Learning](https://app.readytensor.ai/publications/building_clip_from_scratch_a_tutorial_on_multi-modal_learning_57Nhu0gMyonV) publication on ReadyTensor
+
 ## Project Structure
 
 - `clip.py`: The core implementation of the CLIP model, including the image and text encoders, attention mechanism, and contrastive learning.
